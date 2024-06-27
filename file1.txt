@@ -1,6 +1,6 @@
 <?php
 // Edit by UI
-if($n == 1) {
+if($n == 9) {
   echo "this value is 1";
 }
 // Edit by user
