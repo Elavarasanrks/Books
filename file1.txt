@@ -2,9 +2,4 @@
 
 if($n == 1) {
   echo "this value is 1";
-  echo "condition is true";
 }
-else {
-  echo "This value is not equal to 1";
-}
-
